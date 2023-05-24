@@ -3,8 +3,7 @@
 
 
 
-- <b>Configuring Active Directory on Oracle VM VirtualBox</b>
-  - https://github.com/tioukalov/Configuring-Active-Directory-on-VirtualBox
+- <b><a href="https://github.com/tioukalov/Configuring-Active-Directory-on-VirtualBox">Configuring Active Directory on Oracle VM VirtualBox</a></b>
 
 
 
