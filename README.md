@@ -2,10 +2,10 @@
 <h2>👨‍💻Information Technology Projects:</h2>
 
 
-<!---
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
---->
+
+- <b>Configuring Active Directory on Oracle VM VirtualBox</b>
+  - https://github.com/tioukalov/Configuring-Active-Directory-on-VirtualBox
+
 
 
 <h4>Connect with me:</h4>
