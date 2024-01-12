@@ -1,5 +1,5 @@
-<h1>Hello, I'm Chris! <a href="https://www.linkedin.com/in/christopher-tioukalov-200095253/">IT Professional</a></h1>
-<h2>👨‍💻Information Technology Projects:</h2>
+<h1>Hello, I'm Chris!</h1>
+<h2>Projects:</h2>
 
 
 
